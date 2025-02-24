@@ -2,9 +2,9 @@
 - 👀 I’m interested in digital manufacturing
 - 🌱 I’m currently learning robotics and coding
 - 💞️ I’m looking to collaborate on building canisters with ICP
-- 📫 How to reach me +250789777943
+- 📫 How to reach me +250788975955
 - 😄 Pronouns: S O N O F A F R I C A
-- ⚡ Fun fact: New to coding
+- ⚡ Fun fact: I am Exploring while coding
 
 <!---
 SONAFRICA/SONAFRICA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
