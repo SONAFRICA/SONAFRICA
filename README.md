@@ -6,7 +6,4 @@
 - 😄 Pronouns: S O N O F A F R I C A
 - ⚡ Fun fact: I am Exploring while coding
 
-<!---
-SONAFRICA/SONAFRICA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
